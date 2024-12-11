@@ -2,6 +2,9 @@
 
 **QRify** is a sleek and easy-to-use web application for generating QR codes. Whether you want to encode URLs, text, or other data types, this app lets you create custom QR codes with different colors and sizes, all in a user-friendly interface. Built with **HTML**, **CSS**, and **JavaScript**, QRify makes generating QR codes simple and accessible.
 
+
+<img width="1446" alt="Screenshot 2024-12-11 at 6 56 30 PM" src="https://github.com/user-attachments/assets/6efd7fce-9fcc-421f-b82c-26bcb63d47e9" />
+
 ---
 
 ## 🚀 Features
